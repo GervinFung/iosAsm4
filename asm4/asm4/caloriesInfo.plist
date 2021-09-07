@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   caloriesInfo.plist
+   asm4
+
+   Created by Guest User on 8/8/21.
+   Copyright (c) 2021 Guest. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>Artichoke</key>
+        <string>47 cal</string>
+        
+        <key>Arugula</key>
+        <string>25 cal</string>
+        
+        <key>Blueberries</key>
+        <string>57 cal</string>
+        
+        <key>Cantaloupe</key>
+        <string>34 cal</string>
+        
+        <key>Cherries</key>
+        <string>50 cal</string>
+        
+        <key>Green Beans</key>
+        <string>31 cal</string>
+        
+        <key>Green Olives</key>
+        <string>115 cal</string>
+        
+        <key>Leek</key>
+        <string>61 cal</string>
+        
+        <key>Lettuce</key>
+        <string>15 cal</string>
+        
+        <key>Mushroom</key>
+        <string>22 cal</string>
+        
+        <key>Pear</key>
+        <string>57 cal</string>
+        
+        <key>Persimmon</key>
+        <string>127 cal</string>
+        
+        <key>Pumpkin</key>
+        <string>26 cal</string>
+        
+        <key>Starfruit</key>
+        <string>31 cal</string>
+        
+        <key>Strawberries</key>
+        <string>32 cal</string>
+        
+        <key>Watermelon</key>
+        <string>30 cal</string>
+    </dict>
+</plist>
